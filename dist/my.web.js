@@ -1,0 +1,9 @@
+// { "framework": "Vue"} 
+
+!function(e){function n(o){if(r[o])return r[o].exports;var t=r[o]={i:o,l:!1,exports:{}};return e[o].call(t.exports,t,t.exports,n),t.l=!0,t.exports}var r={};n.m=e,n.c=r,n.i=function(e){return e},n.d=function(e,r,o){n.o(e,r)||Object.defineProperty(e,r,{configurable:!1,enumerable:!0,get:o})},n.n=function(e){var r=e&&e.__esModule?function(){return e.default}:function(){return e};return n.d(r,"a",r),r},n.o=function(e,n){return Object.prototype.hasOwnProperty.call(e,n)},n.p="",n(n.s=9)}({5:/*!********************!*\
+  !*** ./src/my.vue ***!
+  \********************/
+function(module,exports){eval("throw new Error(\"Module build failed: Error: ENOENT: no such file or directory, open '/Users/wengcheng/Desktop/weex/first-project/src/my.vue'\");//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiNS5qcyIsInNvdXJjZXMiOltdLCJtYXBwaW5ncyI6IiIsInNvdXJjZVJvb3QiOiIifQ==\n//# sourceURL=webpack-internal:///5\n")},9:/*!*******************************!*\
+  !*** ./temp/my.js?entry=true ***!
+  \*******************************/
+function(module,exports,__webpack_require__){"use strict";eval("\n\nvar App = __webpack_require__(/*! ../src/my.vue */ 5);\nApp.el = '#root';\nnew Vue(App);//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiOS5qcyIsInNvdXJjZXMiOlsid2VicGFjazovLy90ZW1wL215LmpzPzQ2ZWUiXSwic291cmNlc0NvbnRlbnQiOlsidmFyIEFwcCA9IHJlcXVpcmUoJy4uL3NyYy9teS52dWUnKVxuQXBwLmVsID0gJyNyb290J1xubmV3IFZ1ZShBcHApXG5cblxuXG4vLyBXRUJQQUNLIEZPT1RFUiAvL1xuLy8gdGVtcC9teS5qcz9lbnRyeT10cnVlIl0sIm1hcHBpbmdzIjoiOztBQUFBO0FBQ0E7QUFDQSIsInNvdXJjZVJvb3QiOiIifQ==\n//# sourceURL=webpack-internal:///9\n")}});
